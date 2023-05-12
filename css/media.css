@@ -63,6 +63,18 @@
         padding: 20px 10px;
     }
 
+    .site-header .logos h2 {
+      font-size: 13px;
+    }
+
+    header .logos #kpi-logo img {
+      height: 33px;
+    }
+
+    header .logos #iasa-logo img {
+      height: 33px;
+    }
+
     header .left-logo p{
         display: none;
     }
@@ -189,6 +201,18 @@
         height: 30px;
     }
 
+    .site-header .logos h2 {
+      font-size: 14px;
+    }
+
+    header .logos #kpi-logo img {
+      height: 37px;
+    }
+
+    header .logos #iasa-logo img {
+      height: 37px;
+    }
+
     header .logos{
         padding: 20px 20px;
     }
@@ -253,6 +277,18 @@
 
     .wp-block-file>a.wp-block-file__button {
         display: none;
+    }
+
+    .site-header .logos h2 {
+      font-size: 16px;
+    }
+
+    header .logos #kpi-logo img {
+      height: 40px;
+    }
+
+    header .logos #iasa-logo img {
+      height: 40px;
     }
 }
 
