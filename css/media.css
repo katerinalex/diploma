@@ -130,6 +130,10 @@
    .wp-block-file>a.wp-block-file__button {
        display: none;
    }
+
+   .wp-block-separator {
+        margin: 40px 10px;
+}
 }
 
 @media (min-width: 521px) and (max-width: 782px) { 
