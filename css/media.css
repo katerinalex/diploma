@@ -166,6 +166,15 @@
     .tab-module{
       padding: 10px 10px;
     }
+
+    .pagination {
+      margin: 10px auto;
+    }
+
+    .site-footer .info-row h6 {
+      font-size: 12px;
+      /* line-height: 20px; */
+    }
 }
 
 @media (min-width: 521px) and (max-width: 782px) { 
