@@ -145,7 +145,27 @@
 
    .wp-block-separator {
         margin: 40px 10px;
-}
+    }
+
+    .wp-block-media-text {
+      grid-template-columns: 1fr;
+    }
+
+    .wp-block-media-text .wp-block-media-text__media {
+      display: none;
+    }
+
+    .text-page .entry-content .wp-block-media-text .wp-block-media-text__content h2 {
+      font-size: 36px;
+    }
+
+    .banner .banner-text h1 {
+      font-size: 40px;
+    }
+
+    .tab-module{
+      padding: 10px 10px;
+    }
 }
 
 @media (min-width: 521px) and (max-width: 782px) { 
@@ -194,7 +214,7 @@
     }
 
     .tab-module{
-        padding: 10px 50px;
+        padding: 10px 20px;
     }
 
     header img{
@@ -253,6 +273,14 @@
     .wp-block-file>a.wp-block-file__button {
         display: none;
     }
+
+    .text-page .entry-content .wp-block-media-text .wp-block-media-text__content h2 {
+      font-size: 40px;
+    }
+
+    .banner .banner-text h1 {
+      font-size: 48px;
+    }
  }
 
 /* Small devices (tablets) */
@@ -289,6 +317,14 @@
 
     header .logos #iasa-logo img {
       height: 40px;
+    }
+
+    .text-page .entry-content .wp-block-media-text .wp-block-media-text__content h2 {
+      font-size: 44px;
+    }
+
+    .banner .banner-text h1 {
+      font-size: 56px;
     }
 }
 
