@@ -173,7 +173,14 @@
 
     .site-footer .info-row h6 {
       font-size: 12px;
-      /* line-height: 20px; */
+    }
+
+    .center .img-center:not(:first-child) {
+      margin-left: 0;
+    }
+
+    .wp-image-2383 {
+      display: none;
     }
 }
 
@@ -289,6 +296,14 @@
 
     .banner .banner-text h1 {
       font-size: 48px;
+    }
+
+    .center .img-center:not(:first-child) {
+      margin-left: 0;
+    }
+
+    .wp-image-2383 {
+      display: none;
     }
  }
 
