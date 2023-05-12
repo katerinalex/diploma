@@ -1,0 +1,54 @@
+.small-pictures .img-center img {
+    max-width: 200px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.img-center{
+    width: auto;
+	padding: 20px;
+	border: 2px solid #fec107;
+}
+
+.img-center img{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.img-center img.size-full{
+	width: auto;
+}
+
+.center .img-center:not(:first-child){
+    margin-left: 80px;
+}
+
+.wp-block-coblocks-feature__inner{
+    margin: 40px;
+}
+
+.has-small-font-size{
+    margin: 24px;
+    text-align: center;
+}
+
+.wp-block-coblocks-icon{
+    padding: 16px;
+    color: #FFDF39;
+}
+
+
+.wp-block-separator{
+    margin: 40px;
+}
+
+:root .has-cyan-bluish-gray-color {
+    color: #e5e5e5;
+}
+
+:root .has-cyan-bluish-gray-background-color {
+    background-color: #e5e5e5;
+}

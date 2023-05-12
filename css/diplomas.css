@@ -1,0 +1,34 @@
+.Diploms table {
+    border: 1px solid #fff;
+}
+
+.Diploms table th{
+    border-left: 2px solid #fff;
+    text-align: center;
+}
+
+.Diploms table td{
+    text-align: center;
+    border-bottom: 2px solid #f2f2f2;
+}
+
+.Diploms table a{
+    text-decoration: none;
+}
+
+.Advisor table {
+    border: 1px solid #fff;
+}
+
+.Advisor table th{
+    border-left: 2px solid #fff;
+    text-align: center;
+}
+
+.Advisor table td{
+    text-align: center;
+}
+
+.Advisor table a{
+    text-decoration: none;
+}

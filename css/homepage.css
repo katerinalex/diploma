@@ -1,0 +1,33 @@
+.news-module2{
+    text-align: center;
+    margin: 0px 10px;
+}
+
+.tab-module{
+    padding: 10px 30px;
+    
+}
+
+.tab {
+    overflow: hidden;
+    border-bottom: 3px solid #FFDF39;
+}
+
+.tab button {
+    background-color: inherit;
+    font-size: 14px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+  
+.tab button.active {
+    background-color:  #FFDF39;
+    font-size: 18px;
+}
+  
+.tabcontent, .tabcontent {
+    display: none;
+}
+
+

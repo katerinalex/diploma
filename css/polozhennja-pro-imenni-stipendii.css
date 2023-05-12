@@ -1,0 +1,29 @@
+.innerpage-links{
+    text-align: left;
+    border-bottom: 1px solid #353535;
+}
+
+.innerpage-links a{
+    font-size: 1.1em;
+    color: #43403a;
+    border-bottom: 2px dotted #FF9800;
+    line-height: 40px;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading p{
+    text-align: right;
+}
+
+.polozhenja{
+    border-bottom: 1px solid #353535;
+    padding-bottom: 20px;
+}
+.polozhenja li{
+    line-height: 25px;  
+}
+

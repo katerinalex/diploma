@@ -1,0 +1,27 @@
+#yearsOfStudentsPublication{
+    text-align: center !important;
+}
+
+.pages {
+    overflow: hidden;
+    border-bottom: 3px solid #fec107;
+}
+
+.pages button {
+    background-color: inherit;
+    font-size: 14px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+  
+.pages button.active {
+    background-color:  #fec107;
+    font-size: 18px;
+}
+  
+.year>ol>li>a {
+    font-size: 1.1em;
+    color: #43403a;
+    border-bottom: 2px dotted #FF9800;
+}

@@ -1,0 +1,9 @@
+#Achievements ol{
+    list-style: none; 
+    counter-reset: li; 
+    }
+
+#Achievements li:before {
+    counter-increment: li; 
+    content: counters(li,".") ". "; 
+    }

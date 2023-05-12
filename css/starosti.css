@@ -1,0 +1,19 @@
+.starosti{
+    padding: 30px 0px;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.row img{
+    width: 270px;
+    height: 300px;
+}
+
+.starosta{
+    border-bottom: 3px solid #fec107;
+    padding: 20px 20px;
+}

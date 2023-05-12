@@ -1,0 +1,6 @@
+.linksPub a{
+    font-size: 1.1em;
+    color: #43403a;
+    border-bottom: 2px dotted #FF9800;
+    font-weight: bold;
+}

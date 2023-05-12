@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+.text-content{
+    line-height: 40px;
+    padding: 50px 10px;
+}
+
+.text-content-inner{
+    padding: 0px 150px;
+}
+
+.map{
+    text-align: center;
+    padding: 10px 0px;
+}
+

@@ -1,0 +1,8 @@
+.content-it-profession{
+    display: none;
+  }
+  .content-it-profession.open{
+    display: block;
+  }
+
+ 

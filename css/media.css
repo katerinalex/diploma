@@ -1,0 +1,279 @@
+/* Extra small devices (phones) */
+@media (max-width: 520px) { 
+    body {
+        width: 100%;
+    }
+    .logo{
+        display: none;
+    }
+    
+    .left-logo{
+        padding-left: 30px;
+    }
+    .text-banner p{
+        font-size:12px;
+        line-height: 1.5;
+    }
+    
+    .column{
+        width:100%;
+        padding: 10px 20px;
+    }
+
+    .news-module-bakalavr{
+        display: none;
+    }
+
+    .news-module1{
+        display: block;
+    }
+    .flex-module{
+        display: block;
+    }
+    .left-flex{
+        max-width: 100%;
+    }
+    
+    .right-flex{
+        max-width: 100%;
+    }
+
+    .right-column{
+        padding-left: 0px;
+    }
+
+    .left-column{
+        max-width: 100%;
+    }
+
+    .right-column{
+        max-width: 100%;
+    }
+
+    .tab-module{
+        padding: 10px 50px;
+        
+    }
+
+    header img{
+        height: 35px;
+    }
+
+    header .logos{
+        padding: 20px 10px;
+    }
+
+    header .left-logo p{
+        display: none;
+    }
+
+    header .left-logo a{
+        font-size: 16px;
+        line-height: 1.1;
+    }
+
+    .left-logo .text {
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+
+    header .right-logo p{
+        font-size: 10px;
+    }
+
+    .video video{
+        width: 85%;
+        height: 85%;
+    }
+
+    .map iframe{
+        width: 85%;
+    }
+
+    .text-content{
+        padding: 30px 10px;
+    }
+    .text-content-inner{
+        padding: 0px 0px;
+        text-align: center;
+    }
+
+    .tables{
+        padding: 10px 5px;
+        font-size: 12px;
+    }
+
+    .row{
+        display: block;
+    }
+
+    .smallScreen {
+        display: none;
+    }
+
+    .year table th, td{
+        font-size: 8px;
+    }
+
+    .center{
+        display: block;
+    }
+ 
+    .img-center{
+        width: 100%;
+    }
+
+    .diploma-list>ul{
+        display: block;
+   }
+
+   .wp-block-file>a.wp-block-file__button {
+       display: none;
+   }
+}
+
+@media (min-width: 521px) and (max-width: 782px) { 
+    body {
+        width: 100%;
+    }
+
+   .logo{
+        display: none;
+    }
+
+    .left-logo{
+        padding-left: 20px;
+    }
+
+    .left-logo .text {
+        margin-left: 15px;
+    }
+    .column{
+        width:100%;
+        padding: 10px 20px;
+    }
+    .news-module1{
+        display: block;
+    }
+    .flex-module{
+        display: block;
+    }
+    .left-flex{
+        max-width: 100%;
+    }
+    
+    .right-flex{
+        max-width: 100%;
+    }
+
+    .right-column{
+      padding-left: 0px;
+    }
+    .left-column{
+        max-width: 100%;
+    }
+
+    .right-column{
+        max-width: 100%;
+    }
+
+    .tab-module{
+        padding: 10px 50px;
+    }
+
+    header img{
+        height: 30px;
+    }
+
+    header .logos{
+        padding: 20px 20px;
+    }
+
+   .video video{
+        width: 85%;
+        height: 85%;
+    }
+
+    .map iframe{
+        width: 85%;
+    }
+
+    .tables{
+        padding: 10px 15px;
+    }
+
+    .row{
+        display: block;
+    }
+
+   .center{
+       display: block;
+   }
+
+   .img-center{
+       width: 100%;
+   }
+
+   .diploma-list>ul{
+        display: block;
+    }
+
+    .mobmenul-container{
+        margin-top: 45px;
+    }
+
+    .wp-block-file>a.wp-block-file__button {
+        display: none;
+    }
+ }
+
+/* Small devices (tablets) */
+@media (min-width: 783px) and (max-width: 900px) { 
+    body {
+        width: 100%;
+    }
+
+   .column{
+        width:100%;
+        padding: 10px 20px;
+    }
+
+    .starosti img{
+        width: 60%;
+        height: 60%;
+    }
+
+    .mobmenul-container{
+        margin-top: 45px;
+    }
+
+    .wp-block-file>a.wp-block-file__button {
+        display: none;
+    }
+}
+
+/* Medium devices (desktops) */
+@media (min-width: 901px) and (max-width: 1199px) { 
+    .column{
+        width:70%;
+        padding: 10px 20px;
+    }
+
+    .mobmenul-container{
+        margin-top: 45px;
+    }
+
+    .wp-block-file>a.wp-block-file__button {
+        display: none;
+    }
+
+    figure.wp-block-image {
+        margin-inline-start: 0px;
+       
+    }
+}
+
+/* Large devices (large desktops) */
+@media (min-width: 1200px) { 
+    
+ }
