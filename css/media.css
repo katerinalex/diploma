@@ -182,6 +182,10 @@
     .wp-image-2383 {
       display: none;
     }
+
+    body .is-layout-flex {
+      flex-direction: column;
+    }
 }
 
 @media (min-width: 521px) and (max-width: 782px) { 
