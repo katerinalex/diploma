@@ -106,6 +106,7 @@
     z-index: 999;
     position: relative;
     outline: none;
+    margin-right: 15px;
 }
 
 #burger::after,
@@ -141,7 +142,7 @@
         transform: translate(100%);
     }
     .nav #menu-main_menu {
-        padding: 50px 0;
+        padding: 11vh 0;
         transition: transform .3s;
         position: absolute;
         top: 0;
